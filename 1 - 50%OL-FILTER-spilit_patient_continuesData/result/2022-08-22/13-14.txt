@@ -1,0 +1,6 @@
+Epoch=50 Batch Size=64 steps=1 length=64
+S01
+
+Training Accuracy: 89.146 (+/-1.597)
+Training Loss: 0.323 (+/-0.028)
+

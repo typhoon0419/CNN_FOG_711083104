@@ -1,0 +1,81 @@
+Epoch=50 Batch Size=64 steps=2 length=32
+S01
+
+Training Accuracy: 89.976 (+/-2.034)
+Training Loss: 0.272 (+/-0.017)
+
+Test Accuracy: 84.018
+FOG: 
+specificity: 55.61 sensitivity: 87.531 F1 score: 29.726
+PreFOG: 
+specificity: 0.0 sensitivity: 98.827 F1 score: 0.0
+S02
+
+Training Accuracy: 91.275 (+/-0.73)
+Training Loss: 0.251 (+/-0.012)
+
+Test Accuracy: 88.017
+FOG: 
+specificity: 30.579 sensitivity: 98.5 F1 score: 43.444
+PreFOG: 
+specificity: 4.167 sensitivity: 99.461 F1 score: 6.154
+S03
+
+Training Accuracy: 91.633 (+/-0.39)
+Training Loss: 0.241 (+/-0.015)
+
+Test Accuracy: 80.792
+FOG: 
+specificity: 64.696 sensitivity: 85.986 F1 score: 55.647
+PreFOG: 
+specificity: 3.061 sensitivity: 98.313 F1 score: 3.846
+S05
+
+Training Accuracy: 92.072 (+/-0.659)
+Training Loss: 0.231 (+/-0.012)
+
+Test Accuracy: 66.299
+FOG: 
+specificity: 23.077 sensitivity: 83.385 F1 score: 25.704
+PreFOG: 
+specificity: 1.515 sensitivity: 99.209 F1 score: 2.41
+S06
+
+Training Accuracy: 91.372 (+/-0.484)
+Training Loss: 0.246 (+/-0.009)
+
+Test Accuracy: 87.995
+FOG: 
+specificity: 44.867 sensitivity: 92.275 F1 score: 38.065
+PreFOG: 
+specificity: 5.0 sensitivity: 99.7 F1 score: 6.452
+S07
+
+Training Accuracy: 90.638 (+/-0.687)
+Training Loss: 0.26 (+/-0.018)
+
+Test Accuracy: 90.183
+FOG: 
+specificity: 25.0 sensitivity: 95.057 F1 score: 23.034
+PreFOG: 
+specificity: 2.083 sensitivity: 99.685 F1 score: 3.39
+S08
+
+Training Accuracy: 91.73 (+/-0.583)
+Training Loss: 0.244 (+/-0.016)
+
+Test Accuracy: 71.94
+FOG: 
+specificity: 21.836 sensitivity: 92.321 F1 score: 30.45
+PreFOG: 
+specificity: 0.0 sensitivity: 99.005 F1 score: 0.0
+S09
+
+Training Accuracy: 91.706 (+/-0.503)
+Training Loss: 0.246 (+/-0.013)
+
+Test Accuracy: 82.969
+FOG: 
+specificity: 7.579 sensitivity: 98.365 F1 score: 13.016
+PreFOG: 
+specificity: 5.556 sensitivity: 99.708 F1 score: 8.955
